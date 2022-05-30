@@ -1,0 +1,21 @@
+#+title: A responsabilidade civil extracontratual e as normas de Direito Internacional Privado de fonte interna
+#+DATE: 1 de junho de 2022
+#+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
+#+LATEX_COMPILER: xelatex
+#+cite_export: csl chicago-fullnote-bibliography.csl
+
+* Sumário
+
+A) Introdução
+B) Articulação de fontes
+C) Lei do lugar do facto
+D) Lei do efeito lesivo
+E) /Lex communis/
+
+* Bibliografia recomendada
+
+João Baptista Machado, /Lições de Direito Internacional Privado/, 3.ª ed. (Coimbra: Almedina, 1995), 367–377; Dário Moura Vicente, /Da responsabilidade pré-contratual em direito internacional privado/ (Coimbra: Almedina, 2001), 481–509; Nuno Andrade Pissarra, «O dano transnacional em direito internacional privado: alguns problemas» (s.n., 2004), 107 e ss.; Florbela de Almeida Pires, /Conflitos de leis: comentário aos artigos 14.° a 65.° do Código Civil/ (Coimbra: Coimbra Editora, 2009), 113–117; Elsa Dias Oliveira, /Da Responsabilidade Civil Extracontractual por Violação de Direitos de Personalidade em Direito Internacional Privado/ (Coimbra: Almedina, 2011), 350 e ss.; Maria João Matias Fernandes, «anotação ao artigo 45.º», em /Comentário ao Código Civil : Parte Geral/, ed. Luís A. Carvalho Fernandes e José Carlos Brandão Proença (Lisboa: Universidade Católica Editora, 2014), 123–128; Luís de Lima Pinheiro, /Direito Internacional Privado. Direito de Conflitos - Parte Especial/, II, 4.ª ed. (Coimbra: Almedina, 2015), 500–509; Maria Helena Brito, «Anotação aos arts. 14.º a 65.º», em /Código Civil Anotado/, ed. Ana Prata, vol. I (Coimbra: Almedina, 2019), 74–75; Dário Moura Vicente, «Comentário aos artigos 14.º a 65.º», em /Código Civil Comentado I - Parte Geral/ (Coimbra: Almedina, 2020), 200–204.
